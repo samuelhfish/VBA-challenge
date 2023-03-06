@@ -16,6 +16,8 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 -Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
+
+' Imitiate subroutine for the assignment.
 Sub ticker_challenge()
 
 
