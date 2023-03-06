@@ -18,6 +18,15 @@ Create a script that loops through all the stocks for one year and outputs the f
 -Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
 
+Solution:
+
+-Screenshots of results for each year are attached.
+
+-.vbs  file with code attached.
+
+-VBA code additionally pasted below.
+
+
 
 
     ' Initiate subroutine for the assignment.
